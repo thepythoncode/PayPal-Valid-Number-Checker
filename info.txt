@@ -1,0 +1,6 @@
+PayPal Valid Number Checker
+
+This tool will check your number list from a txt file which is registered with paypal and which is not. This tool support multithreading , anti ip ban, random useragent, auto proxy. If you wanna buy this tool contact me via telegram @alexrony21
+
+Note: Time waster please stay away.
+Thanks
